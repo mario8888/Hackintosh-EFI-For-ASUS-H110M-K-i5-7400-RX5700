@@ -18,5 +18,6 @@
 |   引导   |                        OpenCore 0.8.8                        |
 
 
-单硬盘双系统，使用refind第三方引导，如果只需要单系统引导只需要下载oc相关内容即可。
+
+老机子玩玩黑苹果，单硬盘安装了双系统，使用refind第三方引导，如果只需要单系统引导只需要下载oc相关内容即可。
 ![image](https://user-images.githubusercontent.com/43986712/215637849-7fa46a64-6fd2-48e1-9234-40bc29ed9cc9.png)
